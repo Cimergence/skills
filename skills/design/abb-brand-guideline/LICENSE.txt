@@ -1,0 +1,38 @@
+ABB Brand Guideline Skill — License
+
+This skill file and all associated documentation (SKILL.md, web.md, pptx.md,
+print.md, fonts.md, scripts/abb_brand.py) describe the ABB visual identity
+system for use in Claude-powered workflows.
+
+BRAND ASSET OWNERSHIP
+---------------------
+All ABB brand assets — including the ABB logo, ABB Voice typeface, and ABB
+color specifications — are the intellectual property of ABB Ltd.
+
+  ABB Ltd
+  Affolternstrasse 44
+  8050 Zürich, Switzerland
+  https://new.abb.com
+
+USE OF ABB VOICE FONT
+---------------------
+ABB Voice is a proprietary typeface. Download links referenced in fonts.md
+point to third-party font repositories (maisfontes.com) that distribute the
+font for personal use only. For commercial or production use, obtain a proper
+license from ABB or its authorized type foundry.
+
+SKILL CODE LICENSE
+------------------
+The Python helper scripts and documentation templates in this skill are
+provided for internal workflow automation. They may be freely used and
+adapted within your organization for creating ABB-branded materials.
+
+Redistribution of this skill as a standalone product, or use in tools
+or services unrelated to ABB, is not permitted without written consent.
+
+DISCLAIMER
+----------
+This skill is a community-created aid and is not an official ABB product.
+Color values, spacing tokens, and typographic rules are derived from publicly
+observable ABB communications and presentations. Always verify against the
+official ABB Design Manual for production use.

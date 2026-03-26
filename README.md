@@ -11,6 +11,7 @@ This repository stores useful Claude skills — patterns, prompt templates, and 
 | Category | Description |
 |----------|-------------|
 | [Coding](skills/coding/) | Code generation, review, debugging, and refactoring |
+| [Design](skills/design/) | System design, architecture, and design pattern guidance |
 | [Writing](skills/writing/) | Drafting, editing, summarising, and style transformation |
 | [Analysis](skills/analysis/) | Data interpretation, document analysis, and critical thinking |
 | [Productivity](skills/productivity/) | Task planning, note-taking, meeting summaries, and checklists |
@@ -23,6 +24,7 @@ This repository stores useful Claude skills — patterns, prompt templates, and 
 ├── README.md               ← You are here
 └── skills/
     ├── coding/             ← Programming-related skills
+    ├── design/             ← System design and architecture skills
     ├── writing/            ← Writing and communication skills
     ├── analysis/           ← Analysis and research skills
     ├── productivity/       ← Productivity and organisation skills
